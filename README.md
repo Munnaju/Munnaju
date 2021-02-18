@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Munnaju
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning GLVQ clustering technoques
+- 🌱 I’m currently learning GLVQ clustering techniques
 - 💞️ I’m looking to collaborate on ML projects.
 - 📫 You can reach me at foqrul.munna at gmail.com
 
